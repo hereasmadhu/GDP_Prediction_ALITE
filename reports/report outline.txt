@@ -1,0 +1,29 @@
+Introduction
+
+
+Data Acquisition
+
+
+Data Wrangling:
+
+- Human capital case- working population and labor force participation,
+				1960-1990 lfr (
+- ppp.fillna(0)
+-
+
+ 
+Exploratory Data Analysis
+ (Panel Data, Multiple time series data, stationary check, auto-correlation, seasonality, .... )
+
+Analysis Methodology
+	Base Model (Cobb Douglas Method)
+	Random Forest Machine and other alternatives (SVM, XG-Boost) Learning without Alite
+	Feature Engineering-Random Forest Machine Learning with Alite
+
+	Random Forest using Alite
+	And others
+	
+Conclusion
+	
+
+
